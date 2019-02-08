@@ -11,7 +11,7 @@
 	<groupId>com.sir</groupId>
 	<artifactId>javaProjet-api-v3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>javaProjet-api-v3</name>
+	<name>javaProjet-api-v13</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
